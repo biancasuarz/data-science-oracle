@@ -13,4 +13,3 @@ situacao_aprovacao = True
 print(type(situacao_aprovacao))
 
 print('Aprovada!')
- 
