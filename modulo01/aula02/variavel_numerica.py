@@ -1,4 +1,4 @@
-#Quantidade de funcionarios e salarios(seguranca, docente e diretoria)
+#Quantidade de funcionarios e salarios(seguranca, docente e diretoria)2
 
 q_seguranca = 5
 s_seguranca = 3000

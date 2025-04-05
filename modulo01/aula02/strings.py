@@ -1,3 +1,5 @@
+#manipulando strings
+
 texto = "Amo Jesus"
 print(texto)
 
