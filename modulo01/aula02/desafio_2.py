@@ -19,3 +19,51 @@ elif letra in 'aeiou':
     print("É uma vogal.")
 else:
     print("É uma consoante.")
+
+#Um programa deve ser escrito para ler dois números e, em seguida, perguntar à pessoa usuária qual operação ele deseja realizar. O resultado da operação deve incluir informações sobre o número - se é par ou ímpar, positivo ou negativo e inteiro ou decimal.
+
+# Entrada dos números
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+# Escolha da operação
+operacao = input("Qual operação deseja realizar? (+, -, *, /): ")
+
+# Realiza a operação
+if operacao == '+':
+    resultado = num1 + num2
+elif operacao == '-':
+    resultado = num1 - num2
+elif operacao == '*':
+    resultado = num1 * num2
+elif operacao == '/':
+    if num2 != 0:
+        resultado = num1 / num2
+    else:
+        print("Erro: divisão por zero.")
+        exit()
+else:
+    print("Operação inválida.")
+    exit()
+
+# Exibe o resultado
+print(f"\nResultado da operação: {resultado}")
+
+#positivo ou negativo
+if resultado > 0:
+    print("O resultado é positivo.")
+elif resultado < 0:
+    print("O resultado é negativo.")
+else:
+    print("O resultado é zero (neutro).")
+
+#inteiro ou decimal
+if resultado == int(resultado):
+    print("O resultado é um número inteiro.")
+    #par ou ímpar (só para inteiros)
+    if int(resultado) % 2 == 0:
+        print("O resultado é par.")
+    else:
+        print("O resultado é ímpar.")
+else:
+    print("O resultado é um número decimal.")
