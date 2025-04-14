@@ -9,4 +9,3 @@ for chave, elementos in loja.items():
 for chave in loja.items():
     print(chave)
 
-soma = loja.items('precos')
