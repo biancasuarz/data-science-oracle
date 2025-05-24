@@ -33,7 +33,7 @@ Este curso abrange conceitos fundamentais de **Ciência de Dados**, utilizando P
 - Revisão dos conhecimentos adquiridos
 - Reflexão sobre a aprendizagem
 
-### 🚀 Tecnologias Utilizadas
+###  Tecnologias Utilizadas
 - Python 🐍
 - Pandas 🐼
 - NumPy 🔢
