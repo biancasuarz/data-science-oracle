@@ -1,10 +1,9 @@
 ## 📊 Data Science - Oracle Next One
 
-Bem-vindo(a) ao repositório do curso de **Data Science** oferecido pelo **Oracle Next One**! 🚀
+Bem-vindo(a) ao repositório do curso de **Data Science** oferecido pelo **Oracle Next One**! 
 
 ---
 
-### 📝 Sobre o Curso
 Este curso abrange conceitos fundamentais de **Ciência de Dados**, utilizando Python para manipulação, visualização e análise de dados. Além disso, exploramos modelagem de dados e sua aplicação prática.
 
 ### 📌 Conteúdo do Repositório
@@ -33,7 +32,7 @@ Este curso abrange conceitos fundamentais de **Ciência de Dados**, utilizando P
 - Revisão dos conhecimentos adquiridos
 - Reflexão sobre a aprendizagem
 
-### 🚀 Tecnologias Utilizadas
+###  Tecnologias Utilizadas
 - Python 🐍
 - Pandas 🐼
 - NumPy 🔢
