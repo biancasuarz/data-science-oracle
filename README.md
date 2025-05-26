@@ -4,7 +4,6 @@ Bem-vindo(a) ao repositório do curso de **Data Science** oferecido pelo **Oracl
 
 ---
 
-### 📝 Sobre o Curso
 Este curso abrange conceitos fundamentais de **Ciência de Dados**, utilizando Python para manipulação, visualização e análise de dados. Além disso, exploramos modelagem de dados e sua aplicação prática.
 
 ### 📌 Conteúdo do Repositório
