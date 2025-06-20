@@ -1,6 +1,6 @@
-## 📊 Data Science - Oracle Next One
+##  Data Science - Oracle Next One
 
-Bem-vindo(a) ao repositório do curso de **Data Science** oferecido pelo **Oracle Next One**! 
+Bem-vindo(a) ao repositório do curso de **Data Science** oferecido pelo **Oracle**! 
 
 ---
 
