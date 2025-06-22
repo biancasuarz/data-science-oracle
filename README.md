@@ -10,10 +10,12 @@ Este curso abrange conceitos fundamentais de **Ciência de Dados**, utilizando P
 - Python 
 - Pandas 
 - NumPy 
-- Matplotlib 
+- Matplotlib
+- Seaborn
 - Google Colab 
 - Modelagem de Dados
-- ETL 
+- ETL
+- Data Visualization
 
 ### 📖 Como Utilizar este Repositório
 1. Clone este repositório:
